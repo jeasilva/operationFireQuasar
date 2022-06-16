@@ -1,0 +1,12 @@
+application:
+  name: quasar-fire
+
+server:
+  servlet:
+    context-path: /api/v1/quasar
+
+satellites:
+  number: 3
+  positions: -500:-200, 100:-100, 500:100
+
+
